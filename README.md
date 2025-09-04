@@ -2,13 +2,20 @@
 
 ## Instructions
 
+You have three options for running the assignment notebook:
+* **Option A**: Download and run locally in your own Jupyter environment.
+* **Option B**: Open and run directly in GitHub Codespaces.
+* **Option C**: Upload and run in Google Colab.
+
+Choose whichever option works best for your situation.
+
 ### Downloading the Assignment from GitHub  
 
-* Visit the homework repository (where you found this README).
-* Click on **homework.ipynb** to view the notebook. 
-* Select **Download Raw File** to download to your local directory: 
-
-<img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
+* Visit the homework repository. This should be where you found this README. Otherwise, you can find it in the [course homework repository list](https://github.com/orgs/bu-cds-dx601/repositories).
+* Click on **homework.ipynb** to view the notebook.
+* Depending on your chosen option:
+  * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. Repeat this process for the four data files with names ending in ".tsv". <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
+  * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
 
 * **This assignment also includes 4 data files with names ending in TSV.** Download these files too.
  
@@ -16,9 +23,20 @@
 
 #### Option A: As a Local File 
 
-* After downloading the notebook, open and work on it using your local Jupyter environment. 
+1. Open Jupyter (Anaconda, JupyterLab, or VS Code with Jupyter support).
+2. Navigate to the downloaded **homework.ipynb**.
+3. Edit and run the notebook to complete the assignment.
+4. Make sure to save the notebook before continuing.
 
-#### Option B: Using Google Colab  
+#### Option B: Using GitHub Codespaces
+
+1. Go to the repository for this homework. If necessary, you can find it again in the [course homework respositories list](https://github.com/orgs/bu-cds-dx601/repositories).
+2. Click the green **Code** button and select **Open with Codespaces > New codespace**.
+3. Once Codespaces launches, open **homework.ipynb** directly from the Codespaces file list.
+4. Edit and run the notebook using the built-in JupyterLab interface.
+5. When finished, download the completed notebook: right-click the file in the Codespaces file tree → **Download**.
+
+#### Option C: Using Google Colab  
 
 * Upload to Colab:  
   * Open [Google Colab](https://colab.research.google.com/).
