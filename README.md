@@ -17,8 +17,6 @@ Choose whichever option works best for your situation.
   * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. Repeat this process for the four data files with names ending in ".tsv". <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
   * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
 
-* **This assignment also includes 4 data files with names ending in TSV.** Download these files too.
-
 ### Running the Notebook
 
 #### Option A: As a Local File
